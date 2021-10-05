@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Architecture",
+        "repositoryURL": "https://github.com/NguyenPhongVN/Architecture.git",
+        "state": {
+          "branch": "main",
+          "revision": "91ec45bfef7a1dc5589255ad1ab4ce7baad29b25",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
